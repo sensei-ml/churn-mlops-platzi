@@ -6,7 +6,7 @@ import pandas as pd
 
 FEATURES = pickle.load(open("churn/models/features.pk", "rb"))
 
-model = pickle.load(open("churn/models/model.pk", "rb"))
+model = pickle.load(open("/model/random_forest.pkl", "rb"))
 column_equivalence = pickle.load(open("churn/models/column_equivalence.pk", "rb"))
 
 # create the Flask app
