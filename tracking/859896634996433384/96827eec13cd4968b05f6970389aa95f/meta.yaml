@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/tracking/859896634996433384/96827eec13cd4968b05f6970389aa95f/artifacts
+end_time: 1730749613689
+entry_point_name: ''
+experiment_id: '859896634996433384'
+lifecycle_stage: active
+run_id: 96827eec13cd4968b05f6970389aa95f
+run_name: Support vector machine (SVM)
+run_uuid: 96827eec13cd4968b05f6970389aa95f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730749437401
+status: 3
+tags: []
+user_id: mleon

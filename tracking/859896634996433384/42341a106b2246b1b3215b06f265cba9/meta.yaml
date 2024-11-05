@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/tracking/859896634996433384/42341a106b2246b1b3215b06f265cba9/artifacts
+end_time: 1730749262985
+entry_point_name: ''
+experiment_id: '859896634996433384'
+lifecycle_stage: active
+run_id: 42341a106b2246b1b3215b06f265cba9
+run_name: Random forest
+run_uuid: 42341a106b2246b1b3215b06f265cba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730749251856
+status: 3
+tags: []
+user_id: mleon

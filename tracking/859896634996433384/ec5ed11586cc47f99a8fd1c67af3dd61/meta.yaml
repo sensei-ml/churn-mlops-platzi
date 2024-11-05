@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/tracking/859896634996433384/ec5ed11586cc47f99a8fd1c67af3dd61/artifacts
+end_time: 1730749978596
+entry_point_name: ''
+experiment_id: '859896634996433384'
+lifecycle_stage: active
+run_id: ec5ed11586cc47f99a8fd1c67af3dd61
+run_name: Logistic regression
+run_uuid: ec5ed11586cc47f99a8fd1c67af3dd61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730749978566
+status: 4
+tags: []
+user_id: mleon
