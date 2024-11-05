@@ -1,2 +1,5 @@
 pandas==2.18.4
 sklearn==1.3.4
+torch
+prefect
+mlflow
